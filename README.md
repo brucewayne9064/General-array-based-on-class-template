@@ -1,0 +1,1 @@
+# General-array-based-on-class-template
